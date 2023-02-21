@@ -1,7 +1,7 @@
 
 # Theory Assignment : `Chapter - 01 Inception`
 
-## 1. What is Emmet?
+### 1. What is Emmet?
 
 "Emment is a plug in for many popular text editors which greatly improves HTML & CSS workflow"
 
@@ -23,8 +23,8 @@ Most useful Emmet abbreviations are:
 2. `p2r` => padding: 2rem
 3. `w100p` => width: 100%
 4. `ma50r` => max-width: 50rem
-
-## 2. Difference between a Library and Framework?
+##
+### 2. Difference between a Library and Framework?
 
  Both libraries and frameworks are reusable code written by someone else.Their purpose is to help you to help you solve common problems in easier ways.
 
