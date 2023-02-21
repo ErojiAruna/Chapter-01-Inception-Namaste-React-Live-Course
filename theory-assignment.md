@@ -32,5 +32,7 @@ Difference between a framework and library lies in term called inversion of cont
 
 `Frameworks:`
 frameworks created by dedicated teams, and ship with everything you needed to build large-scale applications.
-These teams
+These teams provide official style guides that follow best practices.
+
+`Libraries:`
 
