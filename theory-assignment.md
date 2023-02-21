@@ -1,9 +1,9 @@
-What is
-What is Emmet?
+
+## What is Emmet?
 "Emment is a plug in for many popular text editors which greatly improves HTML $ CSS workflow"
 
 Most useful Emmet abbreviations are:
 
-HTML
+`HTML`
 
-!,html:5 => generates html5 boilerplate
+`!,html:5` => generates html5 boilerplate
