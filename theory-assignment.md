@@ -26,15 +26,15 @@ Most useful Emmet abbreviations are:
 
 ### 2. Difference between a Library and Framework?
 
-Both libraries and frameworks are reusable code written by someone else.Their purpose is to help you to help you solve common problems in easier ways.
+-Both libraries and frameworks are reusable code written by someone else.Their purpose is to help you to help you solve common problems in easier ways.
 
-Difference between a framework and library lies in term called inversion of control. When you use a library, you are in charge of the application flow. You choose when and where to call library. When you use a framework, the framework is in charge of the flow. It provides you with a few places to plug in your code, but it calls the code you plugged in as needed.
+-Difference between a framework and library lies in term called inversion of control. When you use a library, you are in charge of the application flow. You choose when and where to call library. When you use a framework, the framework is in charge of the flow. It provides you with a few places to plug in your code, but it calls the code you plugged in as needed.
 
 `Frameworks:`
-frameworks created by dedicated teams, and ship with everything you needed to build large-scale applications.
-These teams provide official style guides that follow best practices.
+-frameworks created by dedicated teams, and ship with everything you needed to build large-scale applications.
+-These teams provide official style guides that follow best practices.
 
 `Libraries:`
-libraries focus only on how to use it, which means that the team doesn't support libraries for global state management, like HTTP, routing, forms, etc...
+-libraries focus only on how to use it, which means that the team doesn't support libraries for global state management, like HTTP, routing, forms, etc...
 
-And that is a choice, it gives the user the ability of picking libraries that he wants. That means using libraries, giving us full control of our application, you only add what you want, which makes the application smoother.
+-And that is a choice, it gives the user the ability of picking libraries that he wants. That means using libraries, giving us full control of our application, you only add what you want, which makes the application smoother.
