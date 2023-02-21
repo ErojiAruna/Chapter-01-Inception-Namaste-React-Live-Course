@@ -38,3 +38,5 @@ These teams provide official style guides that follow best practices.
 libraries focus only on how to use it, which means that the team doesn't support libraries for global state management, like HTTP, routing, forms, etc...
 
 And that is a choice, it gives the user the ability of picking libraries that he wants. That means using libraries, giving us full control of our application, you only add what you want, which makes the application smoother.
+
+##
