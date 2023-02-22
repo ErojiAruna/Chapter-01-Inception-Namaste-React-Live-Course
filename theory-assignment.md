@@ -40,3 +40,18 @@ libraries focus only on how to use it, which means that the team doesn't support
 And that is a choice, it gives the user the ability of picking libraries that he wants. That means using libraries, giving us full control of our application, you only add what you want, which makes the application smoother.
 
 ##
+### 3. What is CDN? Why do we use it?
+CDN stands for Content Delivery Network.
+CDN was invented to shorten the physical distance between the website user and the website’s hosting server.
+CDN is a bunch of servers placed in different locations all over the world. To minimize the physical distance between your website and your user you can choose to deliver it through CDN which would cache a copy of your content on each of their servers.
+
+# We use CDN for:
+
+1. Faster performance and lower latency
+2. SEO Improvement:  Google and other search engines love fast and efficient websites. Speed is the most important Google SEO ranking factor. Better the speed, higher a website can appear in search. So, therefore, more leads and sales it can acquire.
+3. Scalability: Protects your website from traffic spikes which can make your website stop responding. Your end-users would not be affected at all.
+4. Security: Any website can come across DDoS attacks or similar. CDN can solve this problem pretty easily.
+
+
+
+
