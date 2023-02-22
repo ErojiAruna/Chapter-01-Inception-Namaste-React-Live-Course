@@ -45,7 +45,7 @@ CDN stands for Content Delivery Network.
 CDN was invented to shorten the physical distance between the website user and the website’s hosting server.
 CDN is a bunch of servers placed in different locations all over the world. To minimize the physical distance between your website and your user you can choose to deliver it through CDN which would cache a copy of your content on each of their servers.
 
-# We use CDN for:
+#### We use CDN for:
 
 1. Faster performance and lower latency
 2. SEO Improvement:  Google and other search engines love fast and efficient websites. Speed is the most important Google SEO ranking factor. Better the speed, higher a website can appear in search. So, therefore, more leads and sales it can acquire.
