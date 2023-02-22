@@ -65,6 +65,7 @@ CORS stands for Cross-Origin Resource Sharing, and is a mechanism that allows re
 
 The opposite of cross-origin requests is same-origin requests. This means that a web page can only interact with other documents that are also on the same server. This policy enforces that documents that interact with each other must have the same origin (domain).
 
+##
 ### 6. What is diference between React and ReactDOM?
 React is a JavaScript library for building User Interfaces.
 
@@ -79,9 +80,11 @@ React-DOM binds the idea of React to a web browser.
 
 Whenever we use component, classes, elements, etc. We’re using React and whenever we use methods like `render()` or `findDOMNode()` we’re using React-DOM.
 
+##
 ### 7. What is difference between react.development.js and react.production.js files via CDN?
 `react.production.js` - production code of react library that is minified and production ready. `react.development.js` - More readable and developer friendly react library code that can be used to debug.
 
+##
 ### 8. What is async and defer?
 ‘async’ and ‘defer’ are boolean attributes which we use along with script tags to load external javascript libraries efficiently into our web page.
 
