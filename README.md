@@ -1,1 +1,1 @@
-# Chapter-01-Inception-Namaste-React-Live-Course-
+# Chapter-01-Inception-Namaste-React-Live-Course
